@@ -1,4 +1,4 @@
-# [FinPort]
+# FinPort
 
 CodePath WEB103 Final Project
 
